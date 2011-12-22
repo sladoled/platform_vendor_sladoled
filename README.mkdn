@@ -1,25 +1,18 @@
-Peter Alfonso
+Sladoled-n-Croatian for Ice Cream
 ===========
 
-Visit http://peteralfonso.com 
+Visit http://sladoled.jdkoreclipse.net 
 
-Follow http://twitter.com/peteralfonso 
-
-Like http://facebook.com/peteralfonsojr
-
-Link http://linkedin.com/in/peteralfonso
-
-Circle http://profiles.google.com/peteralfonsojr
-
+Follow http://twitter.com/sladoled
 
 Getting Started
 ---------------
 
 Please see the [Android source page](http://source.android.com/source/index.html) for building instructions.
 
-To initialize your local repository using my trees, use the following command:
+To initialize your local repository using my trees, use the following command: [BROKEN]
 
-    repo init -u git://github.com/peteralfonso/platform_manifest.git -b ics
+    repo init -u git://github.com/sladoled/platform_manifest.git -b ics
 
 Then to sync up:
 
